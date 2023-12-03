@@ -15,7 +15,7 @@ To develop a dashboard in excel to track the human resource (HR) management key 
 • Staffing
 • Gender diversity
 
-## `Solution Delivered
+## Solution Delivered
 
 ### Step 1:
 
