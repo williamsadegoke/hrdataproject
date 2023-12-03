@@ -52,7 +52,8 @@ Total bad hire active employees
 
 Created charts to graphically summarize the KPIs
 
- 
+![Screenshot 2023-12-03 061006](https://github.com/williamsadegoke/hrdataproject/assets/81843920/ef5f1c96-f007-485a-a89a-8dd502dce132)
+
 
 ## Business Insights
 
