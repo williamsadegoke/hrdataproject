@@ -37,16 +37,16 @@ Assessed data for quality and completeness in preparation for analysis
 Developed KPIs and performed analysis on the dataset using excel
 
 KPIs
-Total active employees
-Total active employees by region
-Total active female employees
-Total active male employees
-Total active fulltime employees
-Total active part time
-Total hourly paid active employees
-Total salary paid employees
-Total new hire active employees
-Total bad hire active employees
+* Total active employees
+* Total active employees by region
+* Total active female employees
+* Total active male employees
+* Total active fulltime employees
+* Total active part time
+* Total hourly paid active employees
+* Total salary paid employees
+* Total new hire active employees
+* Total bad hire active employees
 
 ### Step 4:
 
