@@ -20,7 +20,7 @@ To develop a dashboard in excel to track the human resource (HR) management key 
 ### Step 1:
 
 ### Created a mock-up of the questions to be answered on the dashboard:
-• What is the total number of active employees?
+*• What is the total number of active employees?
 • What is the total number of active female employees?
 • What is the total number of active male employees?
 • What is the total number of active employees by region?
