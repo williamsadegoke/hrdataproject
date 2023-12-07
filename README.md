@@ -10,23 +10,23 @@ To develop a dashboard in excel to track the human resource (HR) management key 
 
 ## Objectives
 
-• Planning
-• Recruitment
-• Staffing
-• Gender diversity
+* Planning
+* Recruitment
+* Staffing
+* Gender diversity
 
 ## Solution Delivered
 
 ### Step 1:
 
 ### Created a mock-up of the questions to be answered on the dashboard:
-* • What is the total number of active employees?
-* • What is the total number of active female employees?
-* • What is the total number of active male employees?
-• What is the total number of active employees by region?
-• What is the pay type of active employees?
-• What is the total number of active fulltime employees?
-• What is the total number of active part time?
+* What is the total number of active employees?
+* What is the total number of active female employees?
+* What is the total number of active male employees?
+* What is the total number of active employees by region?
+* What is the pay type of active employees?
+* What is the total number of active fulltime employees?
+* What is the total number of active part time?
 
 ### Step 2:
 
@@ -57,8 +57,8 @@ Created charts to graphically summarize the KPIs
 
 ## Business Insights
 
-• Full-time employees have the highest number active female employees
-• Part-time employees have the highest number of active male employees
-• Amongst the regions of operation, the Northwest region has the highest number of full-time employees with the value of (424) and the East region has the least number of active part-time employees with the value of (119)
-• Amongst the ethnic group category, group C has the highest number of active employees with the value of (337); males and part-time
-• There are more hourly paid employees than salary paid with the value of (2144). 
+* Full-time employees have the highest number active female employees
+* Part-time employees have the highest number of active male employees
+* Amongst the regions of operation, the Northwest region has the highest number of full-time employees with the value of (424) and the East region has the least number of active part-time employees with the value of (119)
+* Amongst the ethnic group category, group C has the highest number of active employees with the value of (337); males and part-time
+* There are more hourly paid employees than salary paid with the value of (2144). 
